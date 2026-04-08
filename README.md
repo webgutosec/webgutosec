@@ -66,14 +66,6 @@ This GitHub is my hands-on lab, where I share real-world projects, labs, and tec
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=webgutosec\&show_icons=true\&theme=dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webgutosec\&layout=compact\&theme=dark)
-
----
-
 ## Contato | Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/augusto-andradea/
