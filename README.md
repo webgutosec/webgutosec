@@ -1,6 +1,6 @@
 README.MD
 
-# 👋 Olá | Hello, I'm Augusto Argolo
+# Olá | Hello, I'm Augusto Argolo
 
 💻 Infrastructure | Cybersecurity | Virtualization
 🔐 Network Security | Hardening
