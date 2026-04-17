@@ -2,9 +2,7 @@ README.MD
 
 # Olá | Hello, I'm Augusto Argolo
 
-💻 Infrastructure | Virtualization
-🔐 Cybersecurity | Hardening
-🎓 Veeam VMCE Certified (2026)
+💻 SysAdmin |  VMware | Firewall | Redes | Linux | Windows Server | Microsoft 365 | Automation | Active Directory | DNS | DHCP | Veeam VMCE Certified (2026)
 
 ---
 
@@ -53,7 +51,7 @@ I work across the full stack of IT operations, from end-user support to critical
 
 This GitHub is my hands-on lab, where I share real-world projects, labs, and technical implementations.
 
-🎯 Goal: Work with infrastructure and cybersecurity, focusing on secure, resilient, and scalable environments.
+Goal: Work with infrastructure and cybersecurity, focusing on secure, resilient, and scalable environments.
 
 ---
 
