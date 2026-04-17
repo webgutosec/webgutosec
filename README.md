@@ -57,15 +57,6 @@ This GitHub is my hands-on lab, where I share real-world projects, labs, and tec
 
 ---
 
-## 📂 Repositories
-
-📁 infra-labs → Infrastructure & enterprise environments
-📁 cybersec-labs → Security labs & simulations
-📁 automation-scripts → Scripts & automation
-📁 cloud-labs → Cloud & backup projects
-
----
-
 ## Contato | Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/augusto-andradea/
