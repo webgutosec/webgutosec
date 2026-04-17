@@ -2,8 +2,8 @@ README.MD
 
 # Olá | Hello, I'm Augusto Argolo
 
-💻 Infrastructure | Cybersecurity | Virtualization
-🔐 Network Security | Hardening
+💻 Infrastructure | Virtualization
+🔐 Cybersecurity | Hardening
 🎓 Veeam VMCE Certified (2026)
 
 ---
@@ -28,7 +28,7 @@ Minha experiência envolve desde o atendimento ao usuário até a implementaçã
 
 Este GitHub é meu ambiente de estudos e prática, onde documento laboratórios, projetos e simulações baseadas em cenários reais de empresas.
 
-🎯 Objetivo: Atuar com infraestrutura e cibersegurança, focando em ambientes seguros, resilientes e escaláveis.
+Objetivo: Atuar com infraestrutura e cibersegurança, focando em ambientes seguros, resilientes e escaláveis.
 
 ---
 
